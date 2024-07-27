@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color: azure;
+}
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 150px;
+}
+
+.zero{
+    font-weight: bold;
+    font-size: 4rem;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn{
+   display:flex;  
+   align-items: center;
+   justify-items: space-between;
+   border: 2px solid whitesmoke;
+   height: 200px;
+   font-size: 2rem;
+   padding: 20px;  
+}
+
+button{
+   font-size: 1.8rem;
+   display: flex;
+   align-items: center;
+   justify-content: space-around; 
+   margin-right: 600px;
+   border-radius: 10px;
+   width: 220px;
+}
